@@ -1,0 +1,26 @@
+{
+  "name": "cpp-snippets",
+  "displayName": "CPP_Snippets",
+  "description": "Simple Snippets of the Data Structures and Algorithm in C++ for fast coding during Competitive Programming Contest.",
+  "version": "0.0.1",
+  "publisher": "Harsh Chandravanshi",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "c++",
+        "path": "./snippets/starters"
+      },
+      {
+        "language": "c++",
+        "path": "./snippets/basicAlgo"
+      }
+    ]
+  }
+}
