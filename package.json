@@ -4,6 +4,10 @@
   "description": "Simple Snippets of the Data Structures and Algorithm in C++ for fast coding during Competitive Programming Contest.",
   "version": "0.0.1",
   "publisher": "Harsh Chandravanshi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harsh0620/CodeSnippets"
+  },
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -14,11 +18,11 @@
   "contributes": {
     "snippets": [
       {
-        "language": "c++",
+        "language": "cpp",
         "path": "./snippets/starters"
       },
       {
-        "language": "c++",
+        "language": "cpp",
         "path": "./snippets/basicAlgo"
       }
     ]
