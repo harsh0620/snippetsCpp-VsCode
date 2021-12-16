@@ -24,6 +24,10 @@
       {
         "language": "cpp",
         "path": "./snippets/basicAlgo.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/sorting.json"
       }
     ]
   }
