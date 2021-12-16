@@ -19,11 +19,11 @@
     "snippets": [
       {
         "language": "cpp",
-        "path": "./snippets/starters"
+        "path": "./snippets/starters.json"
       },
       {
         "language": "cpp",
-        "path": "./snippets/basicAlgo"
+        "path": "./snippets/basicAlgo.json"
       }
     ]
   }
