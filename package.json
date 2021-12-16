@@ -32,6 +32,10 @@
       {
         "language": "cpp",
         "path": "./snippets/searching.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/input.json"
       }
     ]
   }
