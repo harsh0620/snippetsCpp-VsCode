@@ -28,6 +28,10 @@
       {
         "language": "cpp",
         "path": "./snippets/sorting.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/searching.json"
       }
     ]
   }
