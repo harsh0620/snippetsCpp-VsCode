@@ -41,7 +41,7 @@
     "description": "Creates Basic CPP Starter Template"
   },
   "C++ Starter Template": {
-    "prefix": "!c++",
+    "prefix": "c++",
     "body": [
       "#include <bits/stdc++.h>",
       "using namespace std;",
@@ -71,5 +71,14 @@
       "}"
     ],
     "description": "Create Basic DSA Starter Template"
+  },
+  "Fast Input Output": {
+    "prefix": "fastio",
+    "body": [
+      "ios_base::sync_with_stdio(0);",
+      "    cin.tie(0);",
+      "    cout.tie(0);"
+    ],
+    "description": "Fast Input Output"
   }
 }

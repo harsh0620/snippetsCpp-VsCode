@@ -29,6 +29,23 @@
     ],
     "description": "Maximum Function with long long int"
   },
+  "Minimum Function with long long int": {
+    "prefix": "minll",
+    "body": [
+      "long long int min(long long int a, long long int b)",
+      "{",
+      "    if (a >= b)",
+      "    {",
+      "        return b;",
+      "    }",
+      "    else",
+      "    {",
+      "        return a;",
+      "    }",
+      "}"
+    ],
+    "description": "Minimum Function with long long int"
+  },
   "Check number is power of two": {
     "prefix": "isPowerOfTwo",
     "body": [
@@ -213,7 +230,7 @@
     "description": "sieve of eratosthenes"
   },
   "LCM between two number": {
-    "prefix": "",
+    "prefix": "lcm",
     "body": [
       "long long int gcd(long long int a, long long int b)",
       "{",
