@@ -40,6 +40,14 @@
       {
         "language": "cpp",
         "path": "./snippets/commonLang.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/tree.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/bst.json"
       }
     ]
   }
