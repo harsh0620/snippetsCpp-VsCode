@@ -48,6 +48,10 @@
       {
         "language": "cpp",
         "path": "./snippets/bst.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/graph.json"
       }
     ]
   }
