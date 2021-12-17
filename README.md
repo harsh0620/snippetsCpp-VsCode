@@ -1,65 +1,143 @@
 # cpp-snippets README
 
-This is the README for your extension "cpp-snippets". After writing up a brief description, we recommend including the following sections.
+This cpp-snippets extension provides snippets of DSA and frequently used code snippet in competitive programming.
+
+## Author
+
+[Harsh Chandravanshi](https://harshchandravanshi.me): `Portfolio`
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+![alt text](https://github.com/GDSC-CTAE/dscctae/blob/master/src/assets/website.png)
 
-For example if there is an image subfolder under your extension project workspace:
+---
 
-\!\[feature X\]\(images/feature-x.png\)
+## Supported languages (file extensions)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+- C++ (.cpp, .c++)
+- C (.c)
 
-## Requirements
+---
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Snippets info
 
-## Extension Settings
+Every space inside `{ }` and `( )` means that this is pushed into next line :)
+`$` represent each step after `tab`.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+---
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+No Issues
+
+---
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 0.0.1
 
-### 1.0.0
+Initial release with the snippets on following topics with their prefixes.
 
-Initial release of ...
+---
 
-### 1.0.1
+### Starter Template
 
-Fixed issue #.
+| Prefix | Method                          |
+| -----: | ------------------------------- |
+|  `cpp` | `CP Starter Template`           |
+|  `c++` | `C++ Starter Template`          |
+|  `dsa` | `DSA Specific Starter Template` |
 
-### 1.1.0
+### Common Codes
 
-Added features X, Y, and Z.
+|   Prefix | Method                              |
+| -------: | ----------------------------------- |
+|   `forn` | `For loop with n size`              |
+| `whilen` | `While loop with n size`            |
+|  `couta` | `Print elements of array of n size` |
+|  `coutv` | `Print elements of vector`          |
+|  `autov` | `Print element of vector with auto` |
 
------------------------------------------------------------------------------------------------------------
+### Input Taking Template
 
-## Working with Markdown
+| Prefix | Method                                        |
+| -----: | --------------------------------------------- |
+| `inai` | `Taking input in n size int array`            |
+| `inal` | `Taking input in n size long long int array`  |
+| `invi` | `Taking input in n size int vector`           |
+| `invl` | `Taking input in n size long long int vector` |
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+### Basic Algo + Mathematics
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+|              Prefix | Method                                |
+| ------------------: | ------------------------------------- |
+|               `gcd` | `Greatest Common Divisor`             |
+|             `maxll` | `Maximum Function with long long int` |
+|             `minll` | `Minimum Function with long long int` |
+|    `isPowerOfTwo->` | `Check number is power of two`        |
+|         `isPrime->` | `Check number is prime`               |
+|    `primeFactors->` | `return all prime factors`            |
+|   `countDivisors->` | `count of all divisors`               |
+| `divisorFunction->` | `sum of all divisors`                 |
+|      `nFactorial->` | `return n!`                           |
+|   `nFactorialMOD->` | `return n!%mod`                       |
+|  `nextPowerOfTwo->` | `next power of two`                   |
+|  `prevPowerOfTwo->` | `prev power of two`                   |
+|         `xpowery->` | `x^y`                                 |
+|      `xpoweryMOD->` | `(x^y)%mod`                           |
+|           `sieve->` | `sieve of eratosthenes`               |
+|               `lcm` | `Least Common Multiple`               |
+|   `combinatorics->` | `Combinatorics`                       |
 
-### For more information
+### Graph
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+|           Prefix | Method                                   |
+| ---------------: | ---------------------------------------- |
+|      `adjMatrix` | `Adjacency Matrix in Graph`              |
+|        `adjList` | `Adjacency List in Graph`                |
+|            `bfs` | `BFS in Graph`                           |
+|            `dfs` | `DFS in Graph`                           |
+|        `topoBfs` | `Topological BFS in Graph`               |
+|        `topoDfs` | `Topological DFS in Graph`               |
+|     `isCycleDfs` | `Is Cycle is Present in Graph using DFS` |
+|     `isCycleBfs` | `Is Cycle is Present in Graph using BFS` |
+| `shortesPathDAG` | `Shortest Path Direct Acyclic Graph`     |
+|       `dijkstra` | `Dijkstra shortest path algorithm`       |
+|    `bellmanFord` | `Bellman Ford shortest path algorithm`   |
+
+### Tree
+
+|             Prefix | Method                           |
+| -----------------: | -------------------------------- |
+|          `tstruct` | `Tree Structure`                 |
+|          `inorder` | `Tree Inorder`                   |
+|         `preorder` | `Tree Preorder`                  |
+|        `postorder` | `Tree Postorder`                 |
+|       `levelOrder` | `Level Order Traversal Tree`     |
+|         `treeSize` | `Tree Size`                      |
+|       `treeHeight` | `Tree Height`                    |
+|    `treeDiaSimple` | `Tree Diameter Simple`           |
+|       `treeDiaOpt` | `Tree Diameter Optimized`        |
+|          `treeSum` | `Tree Node Sum`                  |
+|          `treeMax` | `Tree Node Maximum`              |
+|     `treeLeftView` | `Tree Left View`                 |
+|    `treeRightView` | `Tree Right View`                |
+| `isBalancedSimple` | `Tree Balanced or Not Simple`    |
+|    `isBalancedOpt` | `Tree Balanced or Not Optimized` |
+|          `flatten` | `Flatten Binary Tree`            |
+
+### String
+
+|                 Prefix | Method                                      |
+| ---------------------: | ------------------------------------------- |
+|         `palindrome->` | `palindrome-String`                         |
+|            `pangram->` | `pangram-string`                            |
+|            `anagram->` | `anagram-strings`                           |
+|           `strtodec->` | `string->decimal`                           |
+|           `dectostr->` | `decimal->string`                           |
+|                `kmp->` | `occurences of pattern in a string`         |
+| `distict_characters->` | `count of unique characters in a string`    |
+|     `lc_subsequence->` | `longest common subsequence of two strings` |
+|       `lc_substring->` | `longest common substring of two strings`   |
 
 **Enjoy!**
