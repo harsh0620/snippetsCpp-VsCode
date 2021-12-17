@@ -2,13 +2,11 @@
 
 This cpp-snippets extension provides snippets of DSA and frequently used code snippet in competitive programming.
 
+---
+
 ## Author
 
 [Harsh Chandravanshi](https://harshchandravanshi.me): `Portfolio`
-
-## Features
-
-![alt text](https://github.com/GDSC-CTAE/dscctae/blob/master/src/assets/website.png)
 
 ---
 
@@ -23,20 +21,6 @@ This cpp-snippets extension provides snippets of DSA and frequently used code sn
 
 Every space inside `{ }` and `( )` means that this is pushed into next line :)
 `$` represent each step after `tab`.
-
----
-
-## Known Issues
-
-No Issues
-
----
-
-## Release Notes
-
-### 0.0.1
-
-Initial release with the snippets on following topics with their prefixes.
 
 ---
 
@@ -139,5 +123,30 @@ Initial release with the snippets on following topics with their prefixes.
 | `distict_characters->` | `count of unique characters in a string`    |
 |     `lc_subsequence->` | `longest common subsequence of two strings` |
 |       `lc_substring->` | `longest common substring of two strings`   |
+
+---
+
+## Features
+
+![alt text](https://github.com/harsh0620/CodeSnippets/blob/main/img/Feature1.png)
+![alt text](https://github.com/harsh0620/CodeSnippets/blob/main/img/Feature2.png)
+![alt text](https://github.com/harsh0620/CodeSnippets/blob/main/img/Feature3.png)
+![alt text](https://github.com/harsh0620/CodeSnippets/blob/main/img/Feature4.png)
+
+---
+
+## Known Issues
+
+No Issues
+
+---
+
+## Release Notes
+
+### 0.0.1
+
+Initial release with the snippets on above topics with their prefixes.
+
+---
 
 **Enjoy!**
