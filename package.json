@@ -4,6 +4,8 @@
   "description": "Simple Snippets of the Data Structures and Algorithm in C++ for fast coding during Competitive Programming Contest.",
   "version": "0.1.0",
   "publisher": "HarshChandravanshi",
+  "homepage": "https://github.com/harsh0620/CodeSnippets/blob/main/README.md",
+  "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/harsh0620/CodeSnippets"
