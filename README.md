@@ -1,6 +1,10 @@
 # cpp-snippets README
 
-This cpp-snippets extension provides snippets of DSA and frequently used code snippet in competitive programming.
+A collection of code snippets for competitive programmers, written in C++ for vscode.
+
+Many times this happens in competitive programming competitions that you've figured out an algorithm for the solution of the problem, which happens to be a standard algorithm. How helpful would it be to have snippets for commonly used concepts/algorithms in competitive programming in that situation, to provide you an edge over fellow competitors as using snippets will improve your accuracy, speed and hence rank!
+
+This repository provides extension for vscode editor which enables vscode users to use c++ coding snippets of algorithms while doing competitive programming.
 
 ---
 
