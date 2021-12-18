@@ -110,6 +110,19 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 |    `isBalancedOpt` | `Tree Balanced or Not Optimized` |
 |          `flatten` | `Flatten Binary Tree`            |
 
+### BST
+
+|            Prefix | Method                               |
+| ----------------: | ------------------------------------ |
+|          `insBst` | `Insert in BST`                      |
+|          `delBst` | `Delete in BST`                      |
+|       `searchBst` | `Search in BST`                      |
+|    `constructBst` | `Construct BST`                      |
+|           `isBst` | `Check the given tree is BST or not` |
+|    `sortArrToBst` | `Sorted array to Bst`                |
+|     `isIdentical` | `Is Bst identical or nor`            |
+| `zigzagTraversal` | `zigzagTraversal Bst`                |
+
 ### String
 
 |                 Prefix | Method                                      |
@@ -123,6 +136,22 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 | `distict_characters->` | `count of unique characters in a string`    |
 |     `lc_subsequence->` | `longest common subsequence of two strings` |
 |       `lc_substring->` | `longest common substring of two strings`   |
+
+### Sorting
+
+|    Prefix | Method           |
+| --------: | ---------------- |
+|  `insort` | `Insertion Sort` |
+| `bubsort` | `Bubble Sort`    |
+| `selsort` | `Selection Sort` |
+| `mersort` | `Merge Sort`     |
+|   `qsort` | `Quick Sort`     |
+
+### Saerching
+
+|    Prefix | Method          |
+| --------: | --------------- |
+| `bsearch` | `Binary Search` |
 
 ---
 
