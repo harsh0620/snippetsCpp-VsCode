@@ -26,7 +26,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Starter Template
 
-| Prefix | Method                          |
+| Prefix | Uses/Method                     |
 | -----: | ------------------------------- |
 |  `cpp` | `CP Starter Template`           |
 |  `c++` | `C++ Starter Template`          |
@@ -34,7 +34,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Common Codes
 
-|   Prefix | Method                              |
+|   Prefix | Uses/Method                         |
 | -------: | ----------------------------------- |
 |   `forn` | `For loop with n size`              |
 | `whilen` | `While loop with n size`            |
@@ -44,7 +44,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Input Taking Template
 
-| Prefix | Method                                        |
+| Prefix | Uses/Method                                   |
 | -----: | --------------------------------------------- |
 | `inai` | `Taking input in n size int array`            |
 | `inal` | `Taking input in n size long long int array`  |
@@ -53,7 +53,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Basic Algo + Mathematics
 
-|            Prefix | Method                                |
+|            Prefix | Uses/Method                           |
 | ----------------: | ------------------------------------- |
 |             `gcd` | `Greatest Common Divisor`             |
 |           `maxll` | `Maximum Function with long long int` |
@@ -75,7 +75,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Graph
 
-|           Prefix | Method                                   |
+|           Prefix | Uses/Method                              |
 | ---------------: | ---------------------------------------- |
 |      `adjMatrix` | `Adjacency Matrix in Graph`              |
 |        `adjList` | `Adjacency List in Graph`                |
@@ -91,7 +91,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Tree
 
-|             Prefix | Method                           |
+|             Prefix | Uses/Method                      |
 | -----------------: | -------------------------------- |
 |          `tstruct` | `Tree Structure`                 |
 |          `inorder` | `Tree Inorder`                   |
@@ -112,7 +112,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### BST
 
-|            Prefix | Method                               |
+|            Prefix | Uses/Method                          |
 | ----------------: | ------------------------------------ |
 |          `insBst` | `Insert in BST`                      |
 |          `delBst` | `Delete in BST`                      |
@@ -125,7 +125,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### String
 
-|               Prefix | Method                                      |
+|               Prefix | Uses/Method                                 |
 | -------------------: | ------------------------------------------- |
 |         `palindrome` | `palindrome-String`                         |
 |            `pangram` | `pangram-string`                            |
@@ -139,7 +139,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Sorting
 
-|    Prefix | Method           |
+|    Prefix | Uses/Method      |
 | --------: | ---------------- |
 |  `insort` | `Insertion Sort` |
 | `bubsort` | `Bubble Sort`    |
@@ -149,7 +149,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Saerching
 
-|    Prefix | Method          |
+|    Prefix | Uses/Method     |
 | --------: | --------------- |
 | `bsearch` | `Binary Search` |
 
