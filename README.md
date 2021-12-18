@@ -53,25 +53,25 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### Basic Algo + Mathematics
 
-|              Prefix | Method                                |
-| ------------------: | ------------------------------------- |
-|               `gcd` | `Greatest Common Divisor`             |
-|             `maxll` | `Maximum Function with long long int` |
-|             `minll` | `Minimum Function with long long int` |
-|    `isPowerOfTwo->` | `Check number is power of two`        |
-|         `isPrime->` | `Check number is prime`               |
-|    `primeFactors->` | `return all prime factors`            |
-|   `countDivisors->` | `count of all divisors`               |
-| `divisorFunction->` | `sum of all divisors`                 |
-|      `nFactorial->` | `return n!`                           |
-|   `nFactorialMOD->` | `return n!%mod`                       |
-|  `nextPowerOfTwo->` | `next power of two`                   |
-|  `prevPowerOfTwo->` | `prev power of two`                   |
-|         `xpowery->` | `x^y`                                 |
-|      `xpoweryMOD->` | `(x^y)%mod`                           |
-|           `sieve->` | `sieve of eratosthenes`               |
-|               `lcm` | `Least Common Multiple`               |
-|   `combinatorics->` | `Combinatorics`                       |
+|            Prefix | Method                                |
+| ----------------: | ------------------------------------- |
+|             `gcd` | `Greatest Common Divisor`             |
+|           `maxll` | `Maximum Function with long long int` |
+|           `minll` | `Minimum Function with long long int` |
+|    `isPowerOfTwo` | `Check number is power of two`        |
+|         `isPrime` | `Check number is prime`               |
+|    `primeFactors` | `return all prime factors`            |
+|   `countDivisors` | `count of all divisors`               |
+| `divisorFunction` | `sum of all divisors`                 |
+|      `nFactorial` | `return n!`                           |
+|   `nFactorialMOD` | `return n!%mod`                       |
+|  `nextPowerOfTwo` | `next power of two`                   |
+|  `prevPowerOfTwo` | `prev power of two`                   |
+|         `xpowery` | `x^y`                                 |
+|      `xpoweryMOD` | `(x^y)%mod`                           |
+|           `sieve` | `sieve of eratosthenes`               |
+|             `lcm` | `Least Common Multiple`               |
+|   `combinatorics` | `Combinatorics`                       |
 
 ### Graph
 
@@ -125,17 +125,17 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 ### String
 
-|                 Prefix | Method                                      |
-| ---------------------: | ------------------------------------------- |
-|         `palindrome->` | `palindrome-String`                         |
-|            `pangram->` | `pangram-string`                            |
-|            `anagram->` | `anagram-strings`                           |
-|           `strtodec->` | `string->decimal`                           |
-|           `dectostr->` | `decimal->string`                           |
-|                `kmp->` | `occurences of pattern in a string`         |
-| `distict_characters->` | `count of unique characters in a string`    |
-|     `lc_subsequence->` | `longest common subsequence of two strings` |
-|       `lc_substring->` | `longest common substring of two strings`   |
+|               Prefix | Method                                      |
+| -------------------: | ------------------------------------------- |
+|         `palindrome` | `palindrome-String`                         |
+|            `pangram` | `pangram-string`                            |
+|            `anagram` | `anagram-strings`                           |
+|           `strtodec` | `stringtodecimal`                           |
+|           `dectostr` | `decimaltostring`                           |
+|                `kmp` | `occurences of pattern in a string`         |
+| `distict_characters` | `count of unique characters in a string`    |
+|     `lc_subsequence` | `longest common subsequence of two strings` |
+|       `lc_substring` | `longest common substring of two strings`   |
 
 ### Sorting
 
