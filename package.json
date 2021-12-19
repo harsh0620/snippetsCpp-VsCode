@@ -1,9 +1,9 @@
 {
   "name": "cpp-snippets",
-  "displayName": "CPP_Snippets",
+  "displayName": "cpp_snippets",
   "description": "Simple Snippets of the Data Structures and Algorithm in C++ for fast coding during Competitive Programming Contest.",
-  "version": "0.1.0",
-  "publisher": "HarshChandravanshi",
+  "version": "0.0.1",
+  "publisher": "harsh0620",
   "homepage": "https://github.com/harsh0620/CodeSnippets/blob/main/README.md",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
