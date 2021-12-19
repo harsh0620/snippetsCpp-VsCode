@@ -1,4 +1,4 @@
-# cpp-snippets README
+# snippetsCpp README
 
 A collection of code snippets for competitive programmers, written in C++ for vscode.
 
