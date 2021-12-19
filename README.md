@@ -176,7 +176,7 @@ No Issues
 
 ## Release Notes
 
-### 0.1.0
+### 1.0.0
 
 Initial release with the snippets on above topics with their prefixes.
 
