@@ -35,6 +35,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 |  `cpp` | `CP Starter Template`           |
 |  `c++` | `C++ Starter Template`          |
 |  `dsa` | `DSA Specific Starter Template` |
+|  `kickstart` | `Google KickStart C++ Template` |
 
 ### Common Codes
 
